@@ -1,3 +1,4 @@
+#Exercícios de fixação
 # Solicita ao usuário uma letra específica
 letra_pedida = input("Digite uma letra para ver sua posição na lista: ")
 
